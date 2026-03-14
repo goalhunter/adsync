@@ -1,0 +1,38 @@
+# ── Excluded directories ───────────────────────────────────────────────────────
+scripts/
+infra/
+video-ad-placer/
+local_server.py
+
+# ── Python ─────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# ── ML Models (large binaries) ─────────────────────────────────────────────────
+backend/models/*.pt
+backend/models/*.pth
+
+# ── Frontend ───────────────────────────────────────────────────────────────────
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# ── Secrets / credentials ──────────────────────────────────────────────────────
+.env
+.env.*
+*.pem
+*.key
+
+# ── OS ─────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
