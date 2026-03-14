@@ -14,6 +14,8 @@ Independent creators — YouTubers, TikTokers, Instagram videographers — produ
 |:---:|:---:|:---:|
 | ![Original](demo/original.gif) | ![Object Detected](demo/detection.gif) | ![Ad Placed](demo/adplaced.gif) |
 
+> Notice how the **North Face logo** is placed directly onto the tent surface — and as the wind moves the tent, the logo moves with it. It doesn't float or stay fixed in place. It shakes, flexes, and breathes with the fabric, exactly as a real printed logo would.
+
 ---
 
 ## How It Works
