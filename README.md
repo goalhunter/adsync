@@ -12,7 +12,7 @@ Independent creators — YouTubers, TikTokers, Instagram videographers — produ
 
 | Original | Object Detected | Ad Placed |
 |:---:|:---:|:---:|
-| <video src="https://github.com/goalhunter/adsync/raw/main/demo/4411615-uhd_3840_2160_30fps.mp4" width="260" controls></video> | <video src="https://github.com/goalhunter/adsync/raw/main/demo/a65fdcea_detection.mp4" width="260" controls></video> | <video src="https://github.com/goalhunter/adsync/raw/main/demo/a65fdcea_adplaced.mp4" width="260" controls></video> |
+| ![Original](demo/original.gif) | ![Object Detected](demo/detection.gif) | ![Ad Placed](demo/adplaced.gif) |
 
 ---
 
